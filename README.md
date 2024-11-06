@@ -1,2 +1,3 @@
 # ut--austin--demo
-this is my first git repository
+this is my second git repository
+author - Jyoti Mittal
